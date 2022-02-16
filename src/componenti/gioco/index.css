@@ -1,0 +1,22 @@
+.cornice {
+position: relative;
+border: 0px solid black;
+width: 400px;
+height: 400px;
+margin: auto;
+display:  flex;
+flex-wrap: wrap;
+ 
+ 
+}
+.quadrato {
+    border: 1px solid black;
+    width: 95px;
+    height: 100px;
+    text-align: center;
+    font-size: 60px;
+    line-height: 1.5;
+     
+     
+
+}

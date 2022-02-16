@@ -1,0 +1,22 @@
+.Gioco {
+
+border: 1px solid black;
+width: 1000px;
+height: 900px;
+margin: auto;
+text-align: center;
+}
+.Navbar {
+    border: 1px solid black;
+    height: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: space-between;
+    background-color: aqua;
+}
+.links{
+display: flex;
+list-style: none;
+gap: 50px;
+}
