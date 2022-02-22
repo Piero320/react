@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Piero320/react/static/css/main.42659f33.css",
+    "main.js": "/Piero320/react/static/js/main.051b9296.js",
+    "static/js/787.bc7d429a.chunk.js": "/Piero320/react/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/Piero320/react/index.html",
+    "main.42659f33.css.map": "/Piero320/react/static/css/main.42659f33.css.map",
+    "main.051b9296.js.map": "/Piero320/react/static/js/main.051b9296.js.map",
+    "787.bc7d429a.chunk.js.map": "/Piero320/react/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42659f33.css",
+    "static/js/main.051b9296.js"
+  ]
+}
