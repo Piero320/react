@@ -12,6 +12,7 @@ import { useState } from 'react';
 
 function Quadrato(props) {
     return (
+      
         <div onClick= {props.onClick} className="quadrato" >
         {props.testo}
         </div>
@@ -43,15 +44,8 @@ v[indice] = str
 v[i] = ""
 setvalori(v)
 setindice(i)
-   
-
 }
-
-
-
-
 }
-
 return (
 <div className="cornice" >
  {valori.map((v,i)=> <Quadrato onClick = {() => cambia(i,v)} testo = {valori[i]} />) }

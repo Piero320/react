@@ -4,19 +4,25 @@ import  "../App.css"
 function Navbar(props) {
     return (
 <div className="Navbar" >
-<h3>Clicca sul gioco </h3>
+<h4>Clicca sul gioco </h4>
 <ul className="links">
 <li>
 <Link to="/orologio">
 orologio
 </Link>
 </li>
+
 <li>
 <Link to="/gioco">
 gioco del 15
 </Link>
 </li>
 
+<li>
+<Link to="/pixel_art">
+pixel art
+</Link>
+</li>
 
 </ul>
 </div>

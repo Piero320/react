@@ -1,17 +1,16 @@
 .cornice {
 position: relative;
 border: 0px solid black;
-width: 400px;
-height: 400px;
+width: 408px;
+height: 408px;
 margin: auto;
 display:  flex;
 flex-wrap: wrap;
  
- 
 }
 .quadrato {
     border: 1px solid black;
-    width: 95px;
+    width: 100px;
     height: 100px;
     text-align: center;
     font-size: 60px;
