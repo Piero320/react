@@ -9,7 +9,7 @@ function App(props) {
  
 return (
 <Router>  
-kk
+
     <div>  
       <Navbar/>
       <Routes>
