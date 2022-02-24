@@ -10,6 +10,7 @@ function App(props) {
 return (
 <Router>  
     <div>  
+    kk
       <Navbar/>
       <Routes>
       <Route path="/orologio" element={<Orologio/>} />  
