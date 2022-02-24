@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Piero320/a/static/css/main.42659f33.css",
-    "main.js": "/Piero320/a/static/js/main.1f1ff88d.js",
-    "static/js/787.bc7d429a.chunk.js": "/Piero320/a/static/js/787.bc7d429a.chunk.js",
-    "index.html": "/Piero320/a/index.html",
-    "main.42659f33.css.map": "/Piero320/a/static/css/main.42659f33.css.map",
-    "main.1f1ff88d.js.map": "/Piero320/a/static/js/main.1f1ff88d.js.map",
-    "787.bc7d429a.chunk.js.map": "/Piero320/a/static/js/787.bc7d429a.chunk.js.map"
+    "main.css": "/my-app/static/css/main.42659f33.css",
+    "main.js": "/my-app/static/js/main.1ac81993.js",
+    "static/js/787.bc7d429a.chunk.js": "/my-app/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/my-app/index.html",
+    "main.42659f33.css.map": "/my-app/static/css/main.42659f33.css.map",
+    "main.1ac81993.js.map": "/my-app/static/js/main.1ac81993.js.map",
+    "787.bc7d429a.chunk.js.map": "/my-app/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42659f33.css",
-    "static/js/main.1f1ff88d.js"
+    "static/js/main.1ac81993.js"
   ]
 }
